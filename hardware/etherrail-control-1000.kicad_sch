@@ -3002,7 +3002,7 @@
     (property "Reference" "Y2" (at 125.73 110.1091 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Crystal_GND24" (at 125.73 112.6491 0)
+    (property "Value" " 16.000MHz GND24" (at 125.73 112.6491 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" (at 114.3 114.3 0)
