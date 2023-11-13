@@ -17,3 +17,6 @@ This can be used to monitor the tracks quality and schedule maintenance before i
 ## Technical Capabilities
 The processor used on this device (ESP32C3) is more than capable for this task.
 We could easily add sound or even camera functionality with this chip!
+
+The board currently contains a full USB debugging interface (headers only, but a programmer is included on the ESP). 
+No parts are currently on the back side of the board, thus it can be expanded very easily!
