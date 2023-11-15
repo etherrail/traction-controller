@@ -4,7 +4,7 @@ This device is a drop in replacement for any DCC boards.
 
 Main Features
 - WiFi enabled
-- Complies with [NEM 652](https://morop.org/downloads/nem/de/nem652_d.pdf)
+- Complies with [NEM 652](./documentation/nem652.pdf)
 - Up to 800mA current (1500mA peak)
 - Track power probe
 - Adaptive motor voltage capping
