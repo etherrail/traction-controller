@@ -1,4 +1,4 @@
-# EtherRail Traction Controller 1000D8SP
+# EtherRail Traction Controller TC800N652+D+CA+2B
 The WiFi based controller for locomotives and other rolling stock.
 This device is a drop in replacement for any DCC boards.
 
@@ -9,6 +9,14 @@ Main Features
 - Track power probe
 - Adaptive motor voltage capping
 - 3€ production cost
+
+Product Code
+- `TC` traction controller
+- `800` 800mA nominal current
+- `N652` plugging interface
+- `+D` debugging version (includes USB header)
+- `+CA` on-board chip antenna
+- `+2B` 2000uF bridgeing capacitor
 
 ## To Do
 - Validate Design (We are currently testing this device)
